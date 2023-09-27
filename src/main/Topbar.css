@@ -36,7 +36,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .nav1 a {
+  .nav1 {
     display: none;
   }
 }
