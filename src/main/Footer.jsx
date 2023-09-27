@@ -28,21 +28,21 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <RiTwitterXFill size={30} />
+              <RiTwitterXFill />
             </a>
             <a
               href="https://www.linkedin.com/in/errjem/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <RiLinkedinFill size={30} />
+              <RiLinkedinFill />
             </a>
             <a
               href="https://github.com/Errjem"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <RiGithubFill size={30} />
+              <RiGithubFill />
             </a>
           </div>
         </Col>

@@ -16,6 +16,8 @@
 .nav2 a {
   transition: 0.4s;
   margin-inline: 10px;
+  color: white;
+  font-size: 25px;
 }
 
 .nav2 a:hover {

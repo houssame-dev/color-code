@@ -32,21 +32,21 @@ function Topbar() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <RiTwitterXFill size={30} color="white" />
+            <RiTwitterXFill />
           </a>
           <a
             href="https://www.linkedin.com/in/errjem/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <RiLinkedinFill size={30} color="white" />
+            <RiLinkedinFill />
           </a>
           <a
             href="https://github.com/Errjem"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <RiGithubFill size={30} color="white" />
+            <RiGithubFill />
           </a>
         </Nav>
       </Container>
