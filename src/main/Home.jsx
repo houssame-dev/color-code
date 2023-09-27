@@ -28,8 +28,13 @@ export default function Home() {
         <Row className="text-center py-5">
           <Col className="pt-5">
             <h1># Color Code</h1>
-            <h3>Celebrate Elegance with Ease: Discover Color Codes Instantly.</h3>
-            <h3>Unlock your preferred color's hexadecimal code with just a single click.</h3>
+            <h3>
+              Celebrate Elegance with Ease: Discover Color Codes Instantly.
+            </h3>
+            <h3>
+              Unlock your preferred color's hexadecimal code with just a single
+              click.
+            </h3>
           </Col>
         </Row>
         <Row className="text-center py-5">
@@ -41,7 +46,8 @@ export default function Home() {
                 onClick={() => handleButtonClick(color)}
                 className="btn-color"
               >
-                <span>{color.colorName}</span><span>{color.colorCode}</span>
+                <span>{color.colorName}</span>
+                <span>{color.colorCode}</span>
               </Button>
             ))}
           </Col>
