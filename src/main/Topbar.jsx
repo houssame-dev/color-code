@@ -21,8 +21,13 @@ function Topbar() {
         </Navbar.Brand>
 
         <nav className="nav1">
-          <a href="http://" target="_blank" rel="noopener noreferrer">
-            <GiCoffeeCup /> buy me a coffee
+          buy me a {""}
+          <a
+            href="https://www.buymeacoffee.com/errjem2u"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <GiCoffeeCup /> coffee
           </a>
         </nav>
 

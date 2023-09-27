@@ -8,6 +8,7 @@ import {
   RiGithubFill,
   RiReactjsFill,
 } from "react-icons/ri";
+import { GiCoffeeCup } from "react-icons/gi";
 
 function Footer() {
   const currentYear = new Date().getFullYear();
@@ -17,9 +18,9 @@ function Footer() {
       <Row>
         <Col md={6} className="py-5">
           <p>
-            Support my work:{" "}
-            <a href="http://" target="_blank" rel="noopener noreferrer">
-              Donate
+            buy me a{" "}
+            <a href="https://www.buymeacoffee.com/errjem2u" target="_blank" rel="noopener noreferrer">
+              <GiCoffeeCup /> coffee
             </a>
           </p>
           <div className="footer-icons">
