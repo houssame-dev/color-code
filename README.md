@@ -16,7 +16,7 @@ Color Code is a simple and user-friendly web application that allows you to disc
 
 ## Demo
 
-Check out the live demo of Color Code: [https://yourwebsite.com/color-code](https://colorcd.netlify.app/)
+Check out the live demo of Color Code: (https://colorcd.netlify.app/)
 
 ## Getting Started
 
