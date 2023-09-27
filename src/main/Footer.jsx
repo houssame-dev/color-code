@@ -18,7 +18,7 @@ function Footer() {
       <Row>
         <Col md={6} className="py-5">
           <p>
-            buy me a{" "}
+            Buy me a{" "}
             <a href="https://www.buymeacoffee.com/errjem2u" target="_blank" rel="noopener noreferrer">
               <GiCoffeeCup /> coffee
             </a>

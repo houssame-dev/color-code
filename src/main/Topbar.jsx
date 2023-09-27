@@ -8,7 +8,7 @@ import logo from "./images/logo.png";
 
 function Topbar() {
   return (
-    <Navbar className="navbar">
+    <Navbar className="navbar" fixed="top">
       <Container>
         <Navbar.Brand href="/">
           <img
@@ -21,7 +21,7 @@ function Topbar() {
         </Navbar.Brand>
 
         <nav className="nav1">
-          buy me a {""}
+          Buy me a {""}
           <a
             href="https://www.buymeacoffee.com/errjem2u"
             target="_blank"

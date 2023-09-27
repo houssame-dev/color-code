@@ -1,4 +1,4 @@
-.home-container{
+.home-container {
   padding-bottom: 5rem;
 }
 
@@ -6,7 +6,7 @@
   color: black;
   font-family: "Dela Gothic One", cursive;
   text-shadow: 0 0 3px white, 0 0 5px white;
-  padding-bottom: 2rem;
+  padding-block: 3rem;
 }
 
 .home-container h3 {
@@ -32,9 +32,10 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  border-radius: 50px;
+  border-radius: 0;
   margin: 10px;
-  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
 
 .home-container .btn-color span:first-child {
