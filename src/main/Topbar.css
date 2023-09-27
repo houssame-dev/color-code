@@ -1,0 +1,34 @@
+.navbar {
+  background: black;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.navbar .navbar-brand {
+  color: white;
+  transition: 0.4s;
+}
+
+.navbar .navbar-brand:hover {
+  color: white;
+  transform: scale(1.3);
+}
+
+.nav2 a {
+  transition: 0.4s;
+  margin-inline: 10px;
+}
+
+.nav2 a:hover {
+  transform: scale(1.3);
+}
+
+.nav1 a {
+  color: white;
+  font-family: "Varela Round", sans-serif;
+}
+
+@media only screen and (max-width: 600px) {
+  .nav1 a {
+    display: none;
+  }
+}

@@ -1,0 +1,15 @@
+.footer-container {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.footer-icons a {
+  margin-inline: 1rem;
+  transition: 0.4s;
+  color: white;
+}
+
+.footer-icons a:hover{
+    color: blue;
+}
