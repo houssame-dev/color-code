@@ -25,4 +25,4 @@ To run Color Code locally, follow these simple steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/color-code.git
+   git clone https://github.com/Errjem/color-code.git
