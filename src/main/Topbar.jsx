@@ -2,7 +2,7 @@ import { Nav } from "react-bootstrap";
 import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import "./Topbar.css";
-import { RiTwitterXFill, RiLinkedinFill, RiGithubFill } from "react-icons/ri";
+import { RiTwitterXFill, RiGithubFill } from "react-icons/ri";
 import { GiCoffeeCup } from "react-icons/gi";
 import logo from "./images/logo.png";
 
@@ -33,21 +33,14 @@ function Topbar() {
 
         <Nav className="nav2">
           <a
-            href="https://twitter.com/errjem2"
+            href="https://twitter.com/houssamedev"
             target="_blank"
             rel="noopener noreferrer"
           >
             <RiTwitterXFill />
           </a>
           <a
-            href="https://www.linkedin.com/in/errjem/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <RiLinkedinFill />
-          </a>
-          <a
-            href="https://github.com/Errjem"
+            href="https://github.com/houssame-dev"
             target="_blank"
             rel="noopener noreferrer"
           >
