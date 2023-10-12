@@ -17,7 +17,7 @@ function Topbar() {
             width="90"
             height="30"
             className="d-inline-block align-top"
-          />{" "}
+          />
         </Navbar.Brand>
 
         <nav className="nav1">
